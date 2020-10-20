@@ -45,12 +45,12 @@ body{
 .lower-container h3, h4{
 	box-sizing: border-box;
 	line-height: .6;
-	font-weight: lighter;
+	font-weight: bold;
 }
 .lower-container h4{
 	color: #7CFC00;
 	opacity: .6;
-	font-weight: bold;
+	font-weight: lighter;
 }
 .lower-container p{
 	font-size: 16px;
